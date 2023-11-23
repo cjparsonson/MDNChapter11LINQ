@@ -4,4 +4,8 @@ string[] names = new[] { "Michael", "Pam", "Jim", "Dwight",
 
 //DeferredExecution(names);
 
-FilteringUsingWhere(names);
+//FilteringUsingWhere(names);
+
+//FilteringByType();
+
+WorkingWithSets();
