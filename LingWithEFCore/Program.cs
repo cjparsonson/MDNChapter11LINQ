@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿ConfigureConsole(); // Sets US English by default.
+//FilterAndSort();
+//JoinCategoriesAndProducts();
+//GroupJoinCategoriesAndProducts();
+//ProductsLookup();
+AggregateProducts();
